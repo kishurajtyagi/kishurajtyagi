@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kishurajtyagi
-- 👀 I’m interested in UI/UX Designing
-- 🌱 I’m currently learning C Language
-- 💞️ I’m looking to collaborate on any UI/UX project or C programming related projects
 - 📫 How to reach me Email:- kishurajtyagi@gmail.com 
 
 <!---
