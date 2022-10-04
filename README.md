@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **kishurajtyagi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1f3BWqfZMMuMjaxUMcj8n1Jy34E0yOFrXZYY--bQ3XHk/edit?usp=sharing](https://docs.google.com/document/d/1f3BWqfZMMuMjaxUMcj8n1Jy34E0yOFrXZYY--bQ3XHk/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
