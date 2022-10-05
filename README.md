@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kishurajtyagi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1f3BWqfZMMuMjaxUMcj8n1Jy34E0yOFrXZYY--bQ3XHk/edit?usp=sharing](https://docs.google.com/document/d/1f3BWqfZMMuMjaxUMcj8n1Jy34E0yOFrXZYY--bQ3XHk/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kishu-raj-tyagi-4a39b7214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kishu-raj-tyagi-4a39b7214/" height="30" width="40" /></a>
